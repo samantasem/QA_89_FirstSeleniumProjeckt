@@ -2,4 +2,6 @@
 name = "qa-89-firstseleniumprojeckt"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "selenium>=4.54.0",
+]
